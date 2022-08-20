@@ -1,3 +1,10 @@
+<p>
+NOTE: This is a fork.
+</p>
+<p>
+TODO goals: enhancements (basic management features like add/remove, recursive file discovery), migration to .NET Core
+</p>
+
 <div align="center">
   <a href="https://github.com/im-mi/KoiCatalog">
     <img alt="KoiCatalog" src="Resources/Media/Logo.png" width="452" height="94">
